@@ -39,6 +39,8 @@ Copy code
 
 ## Screenshots
 
+<<<<<<< HEAD
+
 ### Chat Interface
 
 ![Chat UI](screenshots/chat-ui.jpg)
