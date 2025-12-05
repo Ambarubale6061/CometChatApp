@@ -37,13 +37,19 @@ Copy code
 
 ---
 
-## Screenshots / Demo
+## Screenshots
 
-(Add screenshots or screen recording of:)
+### Chat Interface
 
-- Chat UI running
-- User list
-- Messaging screen
+![Chat UI](screenshots/chat-ui.jpg)
+
+### User List
+
+![User List](screenshots/user-list.jpg)
+
+### Messaging Screen
+
+![Messages](screenshots/message-list.jpg)
 
 ---
 
