@@ -39,8 +39,6 @@ Copy code
 
 ## Screenshots / Demo
 
-(Add screenshots or screen recording of:)
-
 - Chat UI running
 - User list
 - Messaging screen
